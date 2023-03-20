@@ -1,2 +1,2 @@
 # MineAI
-using Open AI 
+Using Open AI 
